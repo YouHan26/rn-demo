@@ -21,6 +21,7 @@ export default class app extends Component {
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
+          yes i catch  it too
         </Text>
         <Text style={styles.instructions}>
           Double tap R on your keyboard to reload,{'\n'}
